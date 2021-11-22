@@ -1,4 +1,6 @@
-Particle physics PhD student at The University of Melbourne. Dark matter hunter, coffee and puzzle enthusiast. 
+Particle physics PhD student at The University of Melbourne. 
+
+Dark matter hunter, coffee and puzzle enthusiast. 
 
 ## Quick links
 [About me](https://mjzurowski.github.io/about) 
