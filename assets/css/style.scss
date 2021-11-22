@@ -4,6 +4,10 @@
 @import "jekyll-theme-slate";
 
 .page-header{
-    background-color:#A067AB;
-    background-image:linear-gradient(120deg,#5073B8,#A067AB);
+    background-image: url("ant1.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
     }
