@@ -1,8 +1,11 @@
+layout: page
+title: "Madeleine J. Zurowski"
 ## Madeleine J. Zurowski
 
 Particle physics PhD student at The University of Melbourne. Dark matter hunter, coffee and puzzle enthusiast. 
 
-### Markdown
+### Links
+[About me] (https://mjzurowski.github.io/about)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
