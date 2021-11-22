@@ -21,4 +21,4 @@ I have largely focused on assessing the performance and limits of the SABRE dete
 
 Pre-COVID I also managed to get my hands dirty (or quite the opposite) with some lab work with our collaborators in Princeton. There I worked on the development of purification techniques and growth of ultra-high purity NaI crystals. As of 2021, these are some of the lowest background NaI crystals ever produced.
 
-![CrystalHandle](/images/crys_handle.jpg)
+![CrystalHandle](/images/crys_handle.jpeg)
