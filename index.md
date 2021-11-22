@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Madeleine J. Zurowski
 
-You can use the [editor on GitHub](https://github.com/mjzurowski/mjzurowski.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Particle physics PhD student at The University of Melbourne. Dark matter hunter, coffee and puzzle enthusiast. 
 
 ### Markdown
 
