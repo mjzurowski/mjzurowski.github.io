@@ -22,6 +22,7 @@ My work focuses on assessing the performance and limits of the SABRE detector th
 Pre-COVID I also managed to get my hands dirty (or quite the opposite) with some lab work with our collaborators in Princeton. There I worked on the development of purification techniques and growth of ultra-high purity NaI crystals. As of 2021, these are some of the lowest background NaI crystals ever produced.
 
 ![CrystalHandle](https://mjzurowski.github.io/images/crys_handle.jpeg)
+
 Photo credit: Frank Calaprice
 
 ![CrystalPur](https://mjzurowski.github.io/images/crys_pure.jpeg)
