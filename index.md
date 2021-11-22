@@ -25,4 +25,5 @@ Pre-COVID I also managed to get my hands dirty (or quite the opposite) with some
 Photo credit: Frank Calaprice
 
 ![CrystalPur](https://mjzurowski.github.io/images/crys_pure.jpeg)
+
 Photo credit: Frank Calaprice
