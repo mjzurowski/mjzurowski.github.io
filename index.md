@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="kTg4RbjusJd8hpUI0SjMXfWVJFLz0mbxyBhVFh7NzZ0" />
 
 # Madeleine J. Zurowski
-Particle physics PhD student at The University of Melbourne. 
+Particle physics PhD student at The University of Melbourne. Currently on the postdoc job market for 2022-2023.
 
 Dark matter hunter, coffee and puzzle enthusiast. 
 
@@ -25,8 +25,8 @@ Pre-COVID I also managed to get my hands dirty (or quite the opposite) with some
 
 ![CrystalHandle](https://mjzurowski.github.io/images/crys_handle.jpeg)
 
-Photo credit: Frank Calaprice
+Photo credit: Frank Calaprice 2019
 
 ![CrystalPur](https://mjzurowski.github.io/images/crys_pure.jpeg)
 
-Photo credit: Frank Calaprice
+Photo credit: Frank Calaprice 2019
