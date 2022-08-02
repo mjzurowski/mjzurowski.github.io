@@ -22,4 +22,6 @@ Because the number of DM collisions wil scale with the relative velocity (think 
 
 ![DMSearches](https://mjzurowski.github.io/images/modulation.gif)
 
+Image credit: Olena Shmahalo / Quanta Magazine
+
 However, this is a very small change on an already tiny interaction rate - to observe it we need to watch for changes on the scale of 0.01 counts per day, per kg of target material. This requires us to create what some have described as 'the most boring place on Earth', an experiment in a laboratory space that has had the background reduced as much as possible to make sure that anything funny that is observed in our detector can be attributed to DM. Much of my work to date has involved calculating what the DM and background signals would look like in SABRE, and how well we might be able to tell them apart. 
