@@ -8,7 +8,7 @@ A selection of slides from some of the talks I have presented.
 
 [IDM2022](https://mjzurowski.github.io/idm-sabre22.pdf): Direct search for Dark Matter with the SABRE South experiment\
 [IDM2022](https://mjzurowski.github.io/idm22-zurowski.pdf): Hidden dependencies in model independent tests of DAMA\
-[PPC2022](https://mjzurowski.github.io/ppc22-zurowski.pdf): Status of the SABRE South Experiment at the Stawell Underground Physics Laboratory}
+[PPC2022](https://mjzurowski.github.io/ppc22-zurowski.pdf): Status of the SABRE South Experiment at the Stawell Underground Physics Laboratory
 
 
 ## Posters
