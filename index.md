@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="kTg4RbjusJd8hpUI0SjMXfWVJFLz0mbxyBhVFh7NzZ0" />
 
 # Madeleine J. Zurowski
-Particle physics PhD student at The University of Melbourne. Currently on the postdoc job market for 2022-2023.
+Postdoctoral fellow at the University of Toronto working on dark matter direct detection.
 
 Dark matter hunter, coffee and puzzle enthusiast. 
 
