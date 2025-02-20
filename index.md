@@ -5,6 +5,10 @@ Postdoctoral fellow at the University of Toronto working on dark matter direct d
 
 Dark matter hunter, coffee and puzzle enthusiast. 
 
+My work for both my MSc and PhD has been on the direct detection of Dark Matter (DM) with the SABRE experiment, while my postdoc work has been on SuperCDMS (non-physicists may find [Intro to Dark Matter](https://mjzurowski.github.io/dm) more illuminating than the information in the [Research](https://mjzurowski.github.io/research-outputs) section).
+
+I am particularly interested in rare event searches/low background physics, and experimental design to support the next generation of these detectors.
+
 ## Quick links
 [About me](https://mjzurowski.github.io/about) 
 
@@ -14,9 +18,5 @@ Dark matter hunter, coffee and puzzle enthusiast.
 
 [Intro to Dark Matter](https://mjzurowski.github.io/dm)
 
-[Recommended reading for physicist](https://mjzurowski.github.io/recommended_reading)
+[Recommended reading for physicists](https://mjzurowski.github.io/recommended_reading)
 
-## My Research
-My work for both my MSc and PhD has been on the direct detection of Dark Matter (DM) with the SABRE experiment, while my postdoc work has been on SuperCDMS (non-physicists may find [Intro to Dark Matter](https://mjzurowski.github.io/dm) more illuminating than the information in the [Research](https://mjzurowski.github.io/research-outputs) section).
-
-I am particularly interested in rare event searches/low background physics, and experimental design to support the next generation of these detectors.
