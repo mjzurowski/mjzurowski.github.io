@@ -18,5 +18,5 @@ I am particularly interested in rare event searches/low background physics, and 
 
 [Intro to Dark Matter](https://mjzurowski.github.io/dm)
 
-[Recommended reading for physicists](https://mjzurowski.github.io/recommended_reading)
+[Technical resources](https://mjzurowski.github.io/recommended_reading)
 
