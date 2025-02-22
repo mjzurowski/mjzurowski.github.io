@@ -3,6 +3,6 @@ theme: jekyll-theme-cayman
 title: Madeleine J. Zurowski
 url: "mjzurowski.github.io"
 
-header_page_refs: [about.md,research-outputs.md,outreach.md,dm.md]
+header_page_refs: [about,research-outputs.md,outreach.md,dm.md]
 
 

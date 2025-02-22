@@ -1,10 +1,7 @@
 ---
-layout: page
 title: About
-tagline: A few more words about this theme
-permalink: /about.html
+tagline: Madeleine J. Zurowski
 ref: about
-order: 0
 ---
 
 # About
