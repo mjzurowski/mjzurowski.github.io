@@ -1,9 +1,3 @@
----
-title: About
-tagline: Madeleine J. Zurowski
-ref: about
----
-
 # About
 I was born and grew up in Sydney, Australia, and yet have somehow managed to develop and maintain a fairly strong Canadian accent. I moved to Melbourne after finishing high school, where I've received my BSc, MSc, and PhD from the University of Melbourne. I am currently working at the University of Toronto as a postdoctoral fellow.
 
