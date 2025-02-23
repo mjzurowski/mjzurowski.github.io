@@ -31,9 +31,9 @@ $on-laptop:        54em !default;
   }
 
 .page-header{
-    color: rgb(21, 153, 87);
-    background-image: url("/images/ant2.PNG"); /* The image used */
-    background-color: #cccccc; /* Used if the image is unavailable */
+    color: rgb(255, 253, 245);
+    /*background-image: url("/images/ant2.PNG");  The image used */
+    background-color: rgb(17, 38, 57);/* Used if the image is unavailable */
     height: 150px; /* You must set a specified height */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
