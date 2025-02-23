@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Madeleine J. Zurowski
+title: Home
 tagline: Madeleine J. Zurowski
 permalink: /index
 ref: home

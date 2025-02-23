@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Madeleine J. Zurowski
+title: Research
 tagline: Madeleine J. Zurowski
 permalink: /research-outputs
 ref: research

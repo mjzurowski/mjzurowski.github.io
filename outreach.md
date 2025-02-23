@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Madeleine J. Zurowski
+title: Outreach
 tagline: Madeleine J. Zurowski
 permalink: /outreach
 ref: outreach
