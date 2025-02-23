@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recommended reading
+title: Madeleine J. Zurowski
 tagline: Madeleine J. Zurowski
 permalink: /recommended_reading
 ref: reading

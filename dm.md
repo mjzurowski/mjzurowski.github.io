@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intro to Dark Matter
+title: Madeleine J. Zurowski
 tagline: Madeleine J. Zurowski
 permalink: /dm
 ref: dm

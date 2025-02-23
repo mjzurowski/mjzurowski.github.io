@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Madeleine J. Zurowski
 tagline: Madeleine J. Zurowski
 permalink: /about
 ref: about
