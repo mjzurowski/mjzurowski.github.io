@@ -2,7 +2,7 @@
 layout: page
 title: Research
 tagline: Madeleine J. Zurowski
-permalink: /research.html
+permalink: /research-outputs
 ref: research
 order: 1
 ---

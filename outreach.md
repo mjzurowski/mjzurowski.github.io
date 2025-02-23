@@ -2,7 +2,7 @@
 layout: page
 title: Outreach
 tagline: Madeleine J. Zurowski
-permalink: /outreach.html
+permalink: /outreach
 ref: outreach
 order: 2
 ---

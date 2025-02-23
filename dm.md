@@ -2,7 +2,7 @@
 layout: page
 title: Intro to Dark Matter
 tagline: Madeleine J. Zurowski
-permalink: /dm.html
+permalink: /dm
 ref: dm
 order: 3
 ---

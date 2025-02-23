@@ -2,7 +2,7 @@
 layout: page
 title: About
 tagline: Madeleine J. Zurowski
-permalink: /about.html
+permalink: /about
 ref: about
 order: 0
 ---

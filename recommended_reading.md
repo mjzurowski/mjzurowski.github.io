@@ -2,7 +2,7 @@
 layout: page
 title: Recommended reading
 tagline: Madeleine J. Zurowski
-permalink: /reading.html
+permalink: /recommended_reading
 ref: reading
 order: 4
 ---
