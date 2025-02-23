@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}"">
   <head>
     <meta charset="UTF-8">
 
@@ -11,6 +11,15 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google-site-verification" content="4cpe0IRV5BGHmZJzSKt9gpuxVsjOgMcl6mTho7Rm3C4" >
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+    {% if page.title %}
+    {% assign page-title = page.title | escape %}
+    {% else %}
+    {% assign page-title = site.title | escape %}
+    {% endif %}
+    
+    <title>{{ page-title }}</title>
+  
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>

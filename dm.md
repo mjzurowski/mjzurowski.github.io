@@ -4,7 +4,7 @@ title: Intro to Dark Matter
 tagline: Madeleine J. Zurowski
 permalink: /dm
 ref: dm
-order: 3
+order: 4
 ---
 # Intro to Dark Matter
 

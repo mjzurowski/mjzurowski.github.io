@@ -1,3 +1,11 @@
+---
+layout: page
+title: Home
+tagline: Madeleine J. Zurowski
+permalink: /index
+ref: home
+order: 0
+---
 <meta name="google-site-verification" content="kTg4RbjusJd8hpUI0SjMXfWVJFLz0mbxyBhVFh7NzZ0" />
 
 # Madeleine J. Zurowski

@@ -4,7 +4,7 @@ title: Outreach
 tagline: Madeleine J. Zurowski
 permalink: /outreach
 ref: outreach
-order: 2
+order: 3
 ---
 # Outreach
 I have become particularly passionate about science communication and outreach. Collected here are a selection of public talks or lectures I have given, as well as articles and interviews I have participated in.

@@ -4,7 +4,7 @@ title: About
 tagline: Madeleine J. Zurowski
 permalink: /about
 ref: about
-order: 0
+order: 1
 ---
 
 # About

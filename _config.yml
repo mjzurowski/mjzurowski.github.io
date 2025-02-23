@@ -6,6 +6,6 @@ url: "https://mjzurowski.github.io" # change this to the base hostname & protoco
 target-blank:
     rel: nofollow
 
-header_page_refs: [about,research,outreach,dm,reading]
+header_page_refs: [home,about,research,outreach,dm,reading]
 
 
