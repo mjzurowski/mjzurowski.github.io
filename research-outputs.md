@@ -1,3 +1,11 @@
+---
+layout: page
+title: Research
+tagline: Madeleine J. Zurowski
+permalink: /research.html
+ref: research
+order: 1
+---
 # Research
 ## SuperCDMS
 SuperCDMS (Super Cryogenic Dark Matter Search) is an experiment hoping to observe the interaction of DM with either germanium (Ge) or silicon (Si) target. The detectors use superconducting Transition Edge sensors to read out signals, requiring the construction of a large scale dilution fridge capable of reaching temperatures of 13 mK (100 times colder than outer space). The experiment is currently under construction at SNOLAB in Canada.

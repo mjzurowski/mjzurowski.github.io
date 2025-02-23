@@ -1,3 +1,11 @@
+---
+layout: page
+title: Intro to Dark Matter
+tagline: Madeleine J. Zurowski
+permalink: /dm.html
+ref: dm
+order: 3
+---
 # Intro to Dark Matter
 
 Dark Matter (DM, often represented with the Greek letter &#967;) is a hypothetical particle that doesn't interact with light, a particular feature that makes it very hard to observe. It's existence is hinted at by a number of different phenomena, in particular the way galaxies rotate and collide, and where mass seems to be distributed across the Universe (inferred using observations of its gravitational influence). Basically, when we look out at the Universe, the maths tells us that there is more matter out there than can be seen - hence the name 'dark'.
