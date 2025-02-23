@@ -1,7 +1,10 @@
-# theme: jekyll-theme-slate
 theme: jekyll-theme-cayman
 title: Madeleine J. Zurowski
 url: "mjzurowski.github.io"
+
+
+target-blank:
+    rel: nofollow
 
 header_page_refs: [about,research,outreach,dm,reading]
 
