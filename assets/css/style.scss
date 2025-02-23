@@ -31,7 +31,7 @@ $on-laptop:        54em !default;
   }
 
 .page-header{
-    color: rgb(3, 3, 3);
+    color: rgb(21, 153, 87);
     background-image: url("/images/ant2.PNG"); /* The image used */
     background-color: #cccccc; /* Used if the image is unavailable */
     height: 150px; /* You must set a specified height */
@@ -65,7 +65,7 @@ $on-laptop:        54em !default;
     display: table;
     clear: both;
   }
-  
+
 .site-nav {
     float: right;
     line-height: $base-line-height * $base-font-size * 2.25;
