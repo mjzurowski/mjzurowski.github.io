@@ -17,4 +17,4 @@ My area of interest is dark matter and other low background physics processes. F
 My CV can be found [here](https://mjzurowski.github.io/files/ZurowskiCV.pdf) and is updated semi-regularly. A list of my talks and publications can also be found at [Research Outputs](https://mjzurowski.github.io/research-outputs).
 
 ## Contact
-You can get in touch using either my [University](mailto:madeleine.zurowski@utoronto.ca) or [personal](mailto:mjzurowski@gmail.com) emails. I also spend (probably too much) time on [Twitter](https://twitter.com/mjzurowski), and share pictures of my work underground on [Instragram](https://www.instagram.com/mz_underground/).
+You can get in touch using either my [University](mailto:madeleine.zurowski@utoronto.ca) or [personal](mailto:mjzurowski@gmail.com) emails. I also spend (probably too much) time on [Twitter](https://twitter.com/mjzurowski), and share pictures of my work underground on [Instagram](https://www.instagram.com/mz_underground/).
