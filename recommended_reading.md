@@ -6,7 +6,7 @@ permalink: /recommended_reading
 ref: reading
 order: 5
 ---
-# Recommended reading
+
 This page is still a work in progress, but [here](https://docs.google.com/document/d/1oMaJOlN3rTAmK-Ta65q9AvL_SAAlL6ZyJ1xkhGh-9bg/edit?usp=sharing) you can find a collection of papers and resources I have found helpful in building up my physics knowledge.
 
 ## Technical papers
