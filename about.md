@@ -9,7 +9,7 @@ order: 1
 
 I was born and grew up in Sydney, Australia, moving to Melbourne for university where I received my BSc, MSc, and PhD from the University of Melbourne. I am currently working at the University of Toronto as a postdoctoral fellow.
 
-Despite getting all my degrees from the same place, I have been lucky enough to study and live at both University of California, Berkeley as an undergraduate, and Princeton University as a visiting graduate researcher.
+Despite getting all my degrees from the same place, I have been lucky enough to study and live at both University of California, Berkeley as an undergraduate, and Princeton University as a visiting graduate researcher. Since becoming a postdoc I have also spent a significant fraction of my time working at SNOLAB in Sudbury, Canada. 
 
 My area of interest is dark matter and other low background physics processes. Formally an experimentalist working on the direct detection of dark matter, I also enjoy dabbling in phenomenology and collaborating with theorists and astrophysicists to understand how different particle interaction models and velocity distributions would manifest in particular detectors. I am currently a member of the [SuperCDMS Experiment](https://supercdms.slac.stanford.edu/), [SABRE Experiment](https://www.sabre-experiment.org.au/) and the [ARC Centre of Excellence for Dark Matter Particle Physics](https://www.centredarkmatter.org/).
 
