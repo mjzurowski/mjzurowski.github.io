@@ -9,7 +9,12 @@ order: 5
 
 This page is a collection of papers and resources I have found helpful in building up my physics knowledge (many of which I still refer to regularly). There are also some interesting thoughts on research as a student and a supervisor in [this](https://mjzurowski.github.io/files/Postgraduate_Survival_Guide_ch5.pdf) chapter of a postgraduate survival guide I helped to write many moons ago.
 
-## Technical papers
+## Contents
+1. [Technical papers](#papers)
+2. [Computing resources](#software)
+3. [Plots and presentation](#style)
+
+## Technical papers<a name="papers"></a>
 
 ### Dark matter as a concept
 * [PDG DM review](https://pdg.lbl.gov/2024/web/viewer.html?file=../reviews/rpp2024-rev-dark-matter.pdf) (Baudis and Profumo): general overview of the motivation for DM and various test methods (direct, indirect, collider)
@@ -38,14 +43,12 @@ This page is a collection of papers and resources I have found helpful in buildi
 #### SuperCDMS
 * [Snowmass Contribution](https://arxiv.org/abs/2203.08463)
 * [Superconducting detectors for particle physics](https://arxiv.org/abs/2111.08875)
-
-#### TES
 * [Transition edge sensors](https://link.springer.com/chapter/10.1007/10933596_3) (Irwin and Hilton)
 
 #### SABRE
 * [Technical design review](https://arxiv.org/abs/2411.13889)
 
-## Computing resources
+## Computing resources<a name="software"></a>
 * [Installing python](https://realpython.com/installing-python/)
 * [Slurm user guide](https://slurm.schedmd.com/quickstart.html)
 * [git user guide](https://github.com/git-guides)
@@ -63,3 +66,9 @@ This page is a collection of papers and resources I have found helpful in buildi
 ### ROOT
 * [RooFit manual](https://root.cern/download/roofit-strasbourg-v10.pdf)
 * [RooFit tutorials](https://root.cern/doc/v628/group__tutorial__roofit.html)
+
+## Plots and presentation<a name="style"></a>
+* [How to visually present data](https://github.com/cajohare/HowToMakeAPlot) (O’Hare)
+* [Craft of Scientific Presentations](https://sharif.edu/~namvar/index_files/Scientific-Presentation.pdf) (Alley)
+* [Writing Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf) (Halmos)
+* [Elements of Style](https://www.nature.com/articles/nphys724) (Nature)
