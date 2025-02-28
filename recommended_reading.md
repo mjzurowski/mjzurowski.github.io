@@ -7,7 +7,7 @@ ref: reading
 order: 5
 ---
 
-This page is a collection of papers and resources I have found helpful in building up my physics knowledge (many of which I still refer to regularly). There are also some interesting thoughts on research as a student and a supervisor in [this](https://mjzurowski.github.io/files/Postgraduate_Survival_Guide_ch5.pdf) chapter of a postgraduate survival guide I helped to write many moons ago.
+This page is a collection of papers and resources I have found helpful in building up my physics knowledge (many of which I still refer to regularly). There are also some interesting thoughts on research as a student and a supervisor in [this](https://mjzurowski.github.io/files/psg.pdf) chapter of a postgraduate survival guide I helped to write many moons ago.
 
 # Contents
 1. [Technical papers](#papers)
