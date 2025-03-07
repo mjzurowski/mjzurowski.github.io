@@ -81,4 +81,4 @@ This page is a collection of papers and resources I have found helpful in buildi
 * [Craft of Scientific Presentations](https://sharif.edu/~namvar/index_files/Scientific-Presentation.pdf) (Alley)
 * [Writing Mathematics](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf) (Halmos)
 * [Elements of Style](https://www.nature.com/articles/nphys724) (Nature)
-* [Coloring for Colorblindness](https://davidmathlogic.com/colorblind/): site that lets you generate and test colour scheme comptability with different types of colourblindness.
+* [Coloring for Colorblindness](https://davidmathlogic.com/colorblind/): site that lets you generate and test colour scheme compatibility with different types of colourblindness.
