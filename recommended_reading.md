@@ -74,6 +74,7 @@ This page is a collection of papers and resources I have found helpful in buildi
 * [RooFit tutorials](https://root.cern/doc/v628/group__tutorial__roofit.html) (available in both C and python)
 * [RooStats introduction](https://indico.cern.ch/event/72320/contributions/2082590/attachments/1037204/1478053/schott_2009.11.26_roostats_tutorials.pdf)
 * [RooStats tutorials](https://root.cern/doc/v630/group__tutorial__roostats.html) (note not all of these are available in python)
+* You can also find an 'extended' RooFit tutorial I wrote [here](https://mjzurowski.github.io/files/RooFit_tutorial.pdf). This will guide you step by step through writing the necessary functions to do statistical analysis, which I find more helpful than staring at code that already exists.
 
 # Plots and presentation<a name="style"></a>
 * [How to visually present data](https://github.com/cajohare/HowToMakeAPlot) (O’Hare)
