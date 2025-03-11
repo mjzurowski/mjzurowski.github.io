@@ -6,7 +6,12 @@ permalink: /research-outputs
 ref: research
 order: 2
 ---
-## SuperCDMS
+# Contents
+1. [SuperCDMS](#scdms)
+2. [SABRE](#sabre)
+3. [Outputs](#outputs)
+
+# SuperCDMS<a name="scdms"></a>
 SuperCDMS (Super Cryogenic Dark Matter Search) is an experiment hoping to observe the interaction of DM with either germanium (Ge) or silicon (Si) target. The detectors use superconducting Transition Edge sensors to read out signals, requiring the construction of a large scale dilution fridge capable of reaching temperatures of 13 mK (100 times colder than outer space). The experiment is currently under construction at SNOLAB in Canada.
 
 To date my roles in this experiment include:
@@ -15,7 +20,7 @@ To date my roles in this experiment include:
 * Noise modelling in the TES'
 * Statistical analysis
 
-## SABRE
+# SABRE<a name="sabre"></a>
 SABRE (Sodium iodide with Active Background REjection) is a dual hemisphere experiment hoping to observe the recoil of a sodium iodide (NaI) crystal after collision with a DM particle. The detector is based in both LNGS in Italy, and Stawell in Australia. The purpose of SABRE (and part of the motivation in locating it in Australia) is to either confirm or refute the modulation observed by the DAMA experiment as having a DM origin. An ultra-low background is key for this search, as in order to conduct a model independent assessment (i.e., without assuming any partiuclar particle interaction model) we should be able to observe a modulation on the order of 0.01 counts per day per kg per keV above any other known background process.
 
 My work focuses on assessing the performance and limits of the SABRE detector through simulation and data analysis in order to understand the best and worst case scenarios we might expect once we go live. In essence, this is about modelling the way that DM and background processes will manifest within the detector, and how well we can identify a modulation in different cases. In order to do this, I have developed a tool called [SGM](https://github.com/mjzurowski/sgm) that is able to simulate the response in a detector for any selection of NREFT operators or DM velocity distributions (as well as a generic, model indepedendent modulation signal), allowing for sensitivity calculations in a variety of different cases. I have also worked in a team that developed DOOM (Digitisation Of Optical Monte carlo), a digitisation tool that takes optical simulations (such as the output of Geant4) and turns them into realistic waveforms, given a defined data acquistion set up.
@@ -30,19 +35,23 @@ Photo credit: Frank Calaprice 2019
 
 Photo credit: Frank Calaprice 2019
 
-## Research Outputs
-### Papers
+# Research Outputs<a name="outputs"></a>
+## Papers
 You can find automatically maintained and updated lists of papers I am an author of on [ORCiD](https://orcid.org/0000-0003-2839-2838) and [INSPIRE-HEP](https://inspirehep.net/authors/1731192?ui-citation-summary=true).
 
-### Talks
+## Talks
 A selection of slides from some of the talks I have presented.
-
+[UofT Senior College seminar, 2025](https://mjzurowski.github.io/files/ZurowskiSeniorCollege2025.pdf): Searching for the Dark\
+[EDSU2024](https://mjzurowski.github.io/files/EDSU_2024.pdf): SuperCDMS Overview and Status\
+[ICRC2023](https://mjzurowski.github.io/files/zurowski-icrc2023.pdf): Summary of Dark Matter presentations at the International Cosmic Ray Conference\
+[SNOLAB seminar, 2023](https://mjzurowski.github.io/files/zurowski_snolabseminar2023.pdf): Direct detection of Dark Matter with the SABRE South Experiment\
+[PhD completion seminar, 2023](https://mjzurowski.github.io/files/completion2023.pdf): Seminar on my PhD thesis on SABRE given at the University of Melbourne\
 [IDM2022](https://mjzurowski.github.io/files/idm-sabre22.pdf): Direct search for Dark Matter with the SABRE South experiment\
 [IDM2022](https://mjzurowski.github.io/files/idm22-zurowski.pdf): Hidden dependencies in model independent tests of DAMA\
 [PPC2022](https://mjzurowski.github.io/files/ppc22-zurowski.pdf): Status of the SABRE South Experiment at the Stawell Underground Physics Laboratory
 
 
-### Posters
+## Posters
 A selection of posters I have presented at conferences and workshops:
 
 [AIP2021](https://mjzurowski.github.io/files/aip2021-opticalveto.pdf): Optical simulation of the SABRE veto system\
