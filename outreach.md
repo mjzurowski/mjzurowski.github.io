@@ -18,6 +18,7 @@ I'm passionate about science communication and outreach. Collected here are a se
 ## Articles/Interviews
 
 [Quirks and Quarks: Science in the field](https://www.cbc.ca/radio/quirks/sep-14-science-in-the-field-1.7322428) an interview on the CBC radio show about working at SNOLAB\
+[The Globe and Mail: the new hunt for dark matter](https://apple.news/AKgAPaxXHSsio3H6RIJXRNQ) article on the SuperCDMS detector\
 [The search for dark matter in a gold mine](https://www.abc.net.au/melbourne/programs/afternoons/madeleine-zurowski-looking-for-dark-matter-in-a-stawell-gold-min/13906050) an interview on ABC Afternoons with Jacinta Parsons for their 'Odd Jobs' segment on working for the SABRE experiment.\
 [The Absurd Search for Dark Matter](https://www.youtube.com/watch?v=6etTERFUlUI&ab_channel=Veritasium) a video by Veritasium that I feature in and helped with the science for.\
 [Article in The Age](https://www.theage.com.au/business/workplace/burying-vital-physics-study-can-only-shed-light-20211013-p58zsl.html) about the motivation and required preparation of the SABRE experiment (October 2021).\
