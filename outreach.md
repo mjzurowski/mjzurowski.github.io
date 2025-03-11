@@ -11,11 +11,13 @@ I'm passionate about science communication and outreach. Collected here are a se
 
 ## Talks
 
+[Searching for the Dark](https://mjzurowski.github.io/files/ZurowskiSeniorCollege2025.pdf): a public lecture given for the University of Toronto Senior College in 2025.\
 [Mid-Afternoon Masterclass: Lighting the Dark Universe](https://www.youtube.com/watch?v=uAeLYSLicdg) a public lecture given with William Melbourne as part of National Science Week 2021.\
 [VCE Physics Lecture: Bringing Dark Matter to Light](https://www.youtube.com/watch?v=b9hlJA8IT_Y) a lecture given with William Melbourne for final year high school students.
 
 ## Articles/Interviews
 
+[Quirks and Quarks: Science in the field](https://www.cbc.ca/radio/quirks/sep-14-science-in-the-field-1.7322428) an interview on the CBC radio show about working at SNOLAB\
 [The search for dark matter in a gold mine](https://www.abc.net.au/melbourne/programs/afternoons/madeleine-zurowski-looking-for-dark-matter-in-a-stawell-gold-min/13906050) an interview on ABC Afternoons with Jacinta Parsons for their 'Odd Jobs' segment on working for the SABRE experiment.\
 [The Absurd Search for Dark Matter](https://www.youtube.com/watch?v=6etTERFUlUI&ab_channel=Veritasium) a video by Veritasium that I feature in and helped with the science for.\
 [Article in The Age](https://www.theage.com.au/business/workplace/burying-vital-physics-study-can-only-shed-light-20211013-p58zsl.html) about the motivation and required preparation of the SABRE experiment (October 2021).\

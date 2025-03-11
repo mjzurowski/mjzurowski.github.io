@@ -42,7 +42,6 @@ You can find automatically maintained and updated lists of papers I am an author
 ## Talks
 A selection of slides from some of the talks I have presented.
 
-[UofT Senior College seminar, 2025](https://mjzurowski.github.io/files/ZurowskiSeniorCollege2025.pdf): Searching for the Dark\
 [EDSU2024](https://mjzurowski.github.io/files/EDSU_2024.pdf): SuperCDMS Overview and Status\
 [ICRC2023](https://mjzurowski.github.io/files/zurowski-icrc2023.pdf): Summary of Dark Matter presentations at the International Cosmic Ray Conference\
 [SNOLAB seminar, 2023](https://mjzurowski.github.io/files/zurowski_snolabseminar2023.pdf): Direct detection of Dark Matter with the SABRE South Experiment\
