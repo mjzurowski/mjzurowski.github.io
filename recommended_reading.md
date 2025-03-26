@@ -51,6 +51,8 @@ This page is a collection of papers and resources I have found helpful in buildi
 * [Background simulation and sensitivity projection](https://arxiv.org/abs/2205.13849)
 
 # Software and computing resources<a name="software"></a>
+* For installing general software (especially ROOT) on a MacOS, I strongly recommend [homebrew](https://brew.sh)
+* For python packages and notebook, I recommend [Anaconda](https://anaconda.org/)
 * [Installing python](https://realpython.com/installing-python/)
 * [Slurm user guide](https://slurm.schedmd.com/quickstart.html)
 * [git user guide](https://github.com/git-guides)
