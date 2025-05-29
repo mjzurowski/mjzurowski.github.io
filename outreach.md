@@ -11,7 +11,7 @@ I'm passionate about science communication and outreach. Collected here are a se
 
 ## Talks
 
-[Searching for the Dark](https://mjzurowski.github.io/files/ZurowskiSeniorCollege2025.pdf): a public lecture given for the University of Toronto Senior College in 2025.\
+[Searching for the Dark](https://www.youtube.com/watch?v=wdTHrePisEU&ab_channel=SeniorCollege%2CUniversityofToronto): a public lecture given for the University of Toronto Senior College in 2025 ([slides]((https://mjzurowski.github.io/files/ZurowskiSeniorCollege2025.pdf))).\
 [Mid-Afternoon Masterclass: Lighting the Dark Universe](https://www.youtube.com/watch?v=uAeLYSLicdg) a public lecture given with William Melbourne as part of National Science Week 2021.\
 [VCE Physics Lecture: Bringing Dark Matter to Light](https://www.youtube.com/watch?v=b9hlJA8IT_Y) a lecture given with William Melbourne for final year high school students.
 
