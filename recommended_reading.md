@@ -35,6 +35,7 @@ This page is a collection of papers and resources I have found helpful in buildi
 * [Statistical Data Analysis](https://www.sherrytowers.com/cowan_statistical_data_analysis.pdf) (Cowan)
 * [PDG statistics review](https://pdg.lbl.gov/2020/reviews/rpp2020-rev-statistics.pdf) (Cowan)
 * [Asymptotic formulae for likelihood-base tests of new physics](https://arxiv.org/abs/1007.1727) (Cowan, Cranmer, Gross and Vitells)
+* [Systematic uncertainties and profiling](https://www.precision.hep.phy.cam.ac.uk/wp-content/people/mitov/lectures/GraduateLectures/Advanced-Statistics-Verkerke.pdf) (Lecture by Wouter Verkerke)
 
 ## Detector concepts
 * [Radiation Detection and Measurement](https://indico-tdli.sjtu.edu.cn/event/171/contributions/2123/attachments/982/1592/Knoll4thEdition.pdf) (Knoll)
@@ -73,6 +74,7 @@ This page is a collection of papers and resources I have found helpful in buildi
 ## ROOT
 * [ROOT manual](https://root.cern/manual/)
 * [RooFit introduction](https://root.cern/download/roofit-strasbourg-v10.pdf)
+* [RooFit user manual](https://mirror.math.princeton.edu/pub/gentoo/distfiles/RooFit_Users_Manual_2.91-33.pdf)
 * [RooFit tutorials](https://root.cern/doc/v628/group__tutorial__roofit.html) (available in both C and python)
 * [RooStats introduction](https://indico.cern.ch/event/72320/contributions/2082590/attachments/1037204/1478053/schott_2009.11.26_roostats_tutorials.pdf)
 * [RooStats tutorials](https://root.cern/doc/v630/group__tutorial__roostats.html) (note not all of these are available in python)
