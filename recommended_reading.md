@@ -61,9 +61,7 @@ This page is a collection of papers and resources I have found helpful in buildi
 ## Latex
 * Guides to getting started: [1](https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/), [2](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 * [Cloud use](https://www.overleaf.com/project) (overleaf) - this is the recommended user interface for Latex
-* Local installation guides;
-    * [MiKTeX](https://miktex.org/download) (Windows, Mac, Linux)
-    * [Mac only install guide](https://sourabhbajaj.com/mac-setup/LaTeX/)
+* Local installation guides: [LateX-Workshop](https://github.com/James-Yu/LaTeX-Workshop/wiki) with VSCode
 
 ## Geant4
 * [Main documentation](https://geant4.web.cern.ch/docs/) - this includes generic installation guide
